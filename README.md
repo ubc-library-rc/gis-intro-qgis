@@ -1,2 +1,3 @@
-# gis-intro-qgis
-Intro to Map Production with QGIS
+# Intro to Map Production with QGIS
+### UBC Library Research Commons
+Link to workshop: https://ubc-library-rc.github.io/gis-intro-qgis/
