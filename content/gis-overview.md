@@ -2,6 +2,7 @@
 layout: default
 title: GIS Overview
 nav_order: 3
+has_children: true
 ---
 
 # Overview: Geographic Information Systems (GIS)
