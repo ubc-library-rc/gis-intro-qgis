@@ -14,7 +14,7 @@ To Do
 {: .label .label-green }
 Click on the 'Download Data' button below to start the download. Once complete, **extract the contents of the .zip file**.
 
-[Download Data](master/intro-qgis-project-files.zip){: .btn .btn-blue }
+[Download Data](intro-qgis-project-files.zip){: .btn .btn-blue }
 
 Open the new **intro-qgis-project-files** folder. This is your project folder which contains the items:
 - **data** subfolder: where your project data is stored. All of these files are derived from data found from the [City of Vancouver's Open Data Catalogue](https://vancouver.ca/your-government/open-data-catalogue.aspx).
