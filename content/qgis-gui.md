@@ -7,7 +7,7 @@ parent: Understanding QGIS
 
 # QGIS Graphical User Interface (GUI)
 
-![The main QGIS GUI](gui-1.png "The main QGIS GUI")
+![The main QGIS GUI](QGIS-GUI-20200820.png "The main QGIS GUI")
 
 **Toolbars** - Toolbars are where you will find the most useful geoprocessing, editing, navigation, and other tools. You can customize this area of your GUI to fit your needs.    
 **Browser and Layers Panel** - The browser panel lets you easily navigate your file system for data and project files. Your layers panel displays your project's data layers and provides access to configuration settings.    
