@@ -7,7 +7,7 @@ nav_order: 1
 
 # The QGIS project file (.qgz)
 
-If you haven't already, Open QGIS 3.10.9 (with GRASS).
+If you haven't already, Open QGIS 3.10.9 (with GRASS 7.8.3).
 
 ![Image of QGIS with GRASS](Open-QGIS-GRASS-20200820.png)
 
