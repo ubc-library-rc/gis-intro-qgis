@@ -8,7 +8,7 @@ nav_order: 6
 # Geoprocessing Toolbox
 
 ## Count the number of Douglas Fir trees in each neighbourhood.
-In the Main Menu select **View - Panels - Processing Toolbox**. This is where you can find a large number of analytical and geoprocessing tools.
+)In the Main Menu select **View - Panels - Processing Toolbox**. This is where you can find a large number of analytical and geoprocessing tools. *In case you can't find the **Processing Toolbox** option, [click here](Enable Processing plugin.html)
 
 In the search, type "count points in polygon" and double-click the result.
 
@@ -22,3 +22,5 @@ Save this layer to your data folder by right-clicking and selecting **Export - S
 
 **Format:** Esri Shapefile    
 **File name:** navigate to the location of your project's data and save the file as **vanHoodsCount**.
+
+## Enable Processing plugin
