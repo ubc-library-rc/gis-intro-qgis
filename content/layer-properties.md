@@ -27,3 +27,5 @@ In Layer Properties, select the tab for **Symbology**, and change the line width
 ![Change VanShoreline Symbology layer Properties](change-layer-width-and-color_20200822.png)
 
 *You should see a slight change in the width of the shoreline and your line should now be blue*.
+
+![Slight change of the shoreline](blue-shoreline_20200822.png)
