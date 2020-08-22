@@ -8,7 +8,7 @@ nav_order: 6
 # Geoprocessing Toolbox
 
 ## Count the number of Douglas Fir trees in each neighbourhood.
-)In the Main Menu select **View - Panels - Processing Toolbox**. This is where you can find a large number of analytical and geoprocessing tools. *In case you can't find the **Processing Toolbox** option, [click here](Enable-Processing-plugin)
+In the Main Menu select **View - Panels - Processing Toolbox**. This is where you can find a large number of analytical and geoprocessing tools. *In case you can't find the **Processing Toolbox** option, [click here](Enable-Processing-plugin)
 
 In the search, type "count points in polygon" and double-click the result.
 
