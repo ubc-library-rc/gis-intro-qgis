@@ -23,11 +23,11 @@ Click on that button and select **Graduated**. This will allow you to display gr
 
 On **Value** select: DougFirs  
 On **Precision** select: 0  
-Check the box for **Trim**
+Check the box for **Trim**  
 **Color Ramp:** pick a color ramp that looks like it would represent the prevalence of Douglas Firs.     
-On **Mode** select: Natural Breaks (Jenks)
-On **Classes** select: 5
-Click **OK** and close the window.
+On **Mode** select: Natural Breaks (Jenks)  
+On **Classes** select: 5  
+Click **OK** and close the window.  
 
 ![VanHoodsCount graduated attributes](vanHoodsCount-graduated-attributes_20200822.png)
 
