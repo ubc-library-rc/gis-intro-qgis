@@ -8,19 +8,53 @@ nav_order: 6
 # Geoprocessing Toolbox
 
 ## Count the number of Douglas Fir trees in each neighbourhood.
-In the Main Menu select **View - Panels - Processing Toolbox**. This is where you can find a large number of analytical and geoprocessing tools. *In case you can't find the **Processing Toolbox** option, [click here](https://ubc-library-rc.github.io/gis-intro-qgis/content/geoprocessing-toolbox.html#enable-processing-plugin)
+In the Main Menu, click on **View**, scroll down to **Panels** and select **Processing Toolbox**.
 
-In the search, type "count points in polygon" and double-click the result.
+*In case you can't find the **Processing Toolbox** option, [click here](https://ubc-library-rc.github.io/gis-intro-qgis/content/geoprocessing-toolbox.html#enable-processing-plugin).*
+
+![View Panel toolbox](view-panel-processing-toolbox_20200822.png)
+
+This is where you can find a large number of analytical and geoprocessing tools. 
+
+In the search bar, type "count points in polygon" and double-click the result.
+
+![Search Processing Toolbox](count-points-in-polygon_20200822.png)
+
+In the new window, select:
 
 **Polygons:** vanHoods (your input polygon layer)   
 **Points:** vanDougFirs (your input points layer)   
 **Count field name:** DougFirs (the name of the attribute that will have Doug Fir counts)
 
-Click **Run**, then **Close** when the process has finished. *You will now have a new layer called **Count***. Take a look at the attribute table for this new layer.
+Click **Run**, then **Close** when the process has finished.
+
+![Polygons Points and Count field name](polygons-points-countfield-name_20200822.png)
+
+*You should now have a new layer called **Count***. Take a look at the attribute table for this new layer and then close it.
+
+![Count attribute table](count-attribute-table_20200822.png)
 
 Save this layer to your data folder by right-clicking and selecting **Export - Save Features As..**
 
+![Save count feature](count-save-feature-as_20200822.png)
+
+In the new window, select
+
 **Format:** Esri Shapefile    
-**File name:** navigate to the location of your project's data and save the file as **vanHoodsCount**.
+**File name:** navigate to the location of your project's data, save the file as **vanHoodsCount** and click **OK**.
+
+![vanHoodsCount data](vanHoodsCount-save-feature_20200822.png)
 
 ## Enable Processing plugin
+
+*In case you didn't find the **Processing Toolbox***:
+
+In the **Main Menu**, click on **Plugins**, then click on **Manage and Install Plugins...**
+
+![Manage and install plugings](add-plugins_20200822.png)
+
+On the search bar, type in **Processing**. Select the Processing box and then click **Close**.
+
+You should now see the **Toolbox icon** and be able to proceed with the next steps.
+
+![Toolbox icon](Processing-toolbox-icon_20200822.png)
