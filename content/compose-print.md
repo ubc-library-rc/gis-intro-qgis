@@ -60,6 +60,12 @@ Then, select the image from the list of items added to the map if it is not alre
 Under item properties, scroll down until you see Image Rotation. Choose **Sync with map**, then select the map you'd like to sync with. For type of alignment, select **Grid or Magnetic north**.
 
 ### Export your map for print.
-In the Print Layout Menu, Select the option to **Export as Image**. Save your file as a .jpeg image in your project folder. Now you have a static image of your map.
+In the Print Layout Menu, click on **Layout** and then on **Export as Image**.
+
+![Export Vancouver Douglas Firs Map as image](Vancouvers-Douglas-Firs-save-as-image_20200823.png)
+
+Save your file as a .jpeg image in your project folder. Now you have a static image of your map and *you should get a message like this*
+
+![Export success msg](Export-Success-Message_20200823.png)
 
 Close the print layout menu.
