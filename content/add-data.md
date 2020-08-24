@@ -30,3 +30,5 @@ For the vector dataset's source, navigate to your **intro-qgis-project-files\dat
 ![add vanBigTrees vector](add-vector-vanBigTrees_20200822.png)
 
 *You should see a new layer named **vanBigTrees** in your Layers Panel.*
+
+![vanBigTrees new layer](vanBigTrees-new-layer_20200822.png)
