@@ -7,10 +7,14 @@ nav_order: 10
 
 # Save Your Project
 
-In the main menu, select **Project**, then click on **Save**.
+In the toolbar, select **Project**, then click on **Save**. 
 
-![Save Project](Save-project_20200823.png)
+![Save Project](Save-project_20220521.png)
 
-*You might get an error message like this*
+You can also save your project by clicking the **Save Project** button from your docked toolbars. 
+
+![Save Project2](Save-project-2_20220521.png)
+
+*You might get an error message like this* You can ignore this and close your project. 
 
 ![error message](save-project-error_20200822.png)

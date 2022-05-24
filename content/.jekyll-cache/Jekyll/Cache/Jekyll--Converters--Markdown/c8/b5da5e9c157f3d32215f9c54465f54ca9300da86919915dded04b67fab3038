@@ -1,0 +1,15 @@
+I"O<h1 id="overview-geographic-information-systems-gis">Overview: Geographic Information Systems (GIS)</h1>
+
+<p>In this case, GIS is an abbreviation for Geographic Information System. A nice description of GIS that provides a bit of relevancy comes from QGIS’s <a href="https://docs.qgis.org/3.10/en/docs/gentle_gis_introduction/introducing_gis.html"><em>A Gentle Introduction to GIS</em></a>:</p>
+
+<blockquote>
+  <p><em>Just as we use a word processor to write documents and deal with words on a computer, we can use a GIS application to deal with spatial information on a computer</em></p>
+</blockquote>
+
+<p>With that in mind, there are 3 main forms of GISs:</p>
+<ol>
+  <li><strong>Utilities and Services (tasks)</strong> - Scripts and programming libraries that manipulate spatial data in specific ways.</li>
+  <li><strong>Desktop (analyses)</strong> - Software that provides a suite of tools for processing and spatially analyzing data.</li>
+  <li><strong>Infrastructure (management)</strong> - Server and web resources to meant manage, curate, and distribute collections of spatial data.</li>
+</ol>
+:ET

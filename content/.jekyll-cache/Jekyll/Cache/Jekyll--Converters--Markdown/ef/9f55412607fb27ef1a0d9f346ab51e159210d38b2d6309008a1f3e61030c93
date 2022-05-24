@@ -1,0 +1,49 @@
+I"�
+<h1 id="selecting-attributes">Selecting Attributes</h1>
+
+<h2 id="select-only-the-douglas-fir-trees">Select only the Douglas Fir trees.</h2>
+<p>With your attribute table open, select the <strong>Select features using an expression</strong> button.</p>
+
+<p><img src="select-features-using-an-expression-1_20200822.png" alt="Select features Option 1" /></p>
+
+<p>We will use this tool to query and select only features that have a common name value of “Douglas Fir”.</p>
+
+<p>In the middle of the window, expand the option for <strong>Fields and Values</strong>, and double-click <strong>COMMN_NAME</strong> so that it is entered in your expression builder (on the left).</p>
+
+<p><img src="commn_name.png" alt="Common name value" /></p>
+
+<p>Click the <strong>=</strong> button above the expression builder.</p>
+
+<p>With COMMN_NAME selected, click the <strong>All Unique</strong> button. This displays all the unique values in the COMMN_NAME field. Double-click <strong>DOUGLAS FIR</strong>, then click the <strong>Select features</strong> button at the bottom right.
+Close the expression builder window and close the attribute table.</p>
+
+<p><img src="douglas-fir-features_20200822.png" alt="Douglas fir features" /></p>
+
+<p><em>You should now see some trees selected on your map - they’ll be yellow. These are the Douglas Fir trees</em>.</p>
+
+<p><img src="Douglas-fir-trees-map_20200822.png" alt="new Douglas Fir trees" /></p>
+
+<h2 id="create-a-new-layer-from-your-douglas-fir-tree-selection">Create a new layer from your Douglas Fir tree selection.</h2>
+<p>Right-click your <strong>vanBigTrees</strong> layer in the Layers Panel, and select <strong>Export</strong> then <strong>Save Selected Features As..</strong>.</p>
+
+<p><img src="vanBigTrees-save-selected-features_20200822.png" alt="vanBigTrees Save selected features as" /></p>
+
+<p>On the new window, choose:</p>
+
+<p><strong>Format:</strong> Esri Shapefile  <br />
+<strong>File name:</strong> navigate to the location of your project’s data and save the file as <strong>vanDougFirs</strong>.</p>
+
+<p>Notice that the option to save only selected features is enabled. Keep the rest of the default settings and click <strong>OK</strong>.</p>
+
+<p><img src="vanDougFirs-save-selected-feature_20200822.png" alt="vanDougFirs save feature" /></p>
+
+<p>You will now see your new layer appear on your map.</p>
+
+<p><img src="vanDougFirs-new-layer-20200822.png" alt="vanDougFirs new layer" /></p>
+
+<p>In your Layers Panel, deselect the <strong>vanBigTrees</strong> layer to remove it from the display.</p>
+
+<p><em>You should now see Douglas Fir trees only</em></p>
+
+<p><img src="vanBigTrees-deselect_20200822.png" alt="vanBigTrees Deselect" /></p>
+:ET

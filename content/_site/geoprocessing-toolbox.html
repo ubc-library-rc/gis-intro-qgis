@@ -1,0 +1,53 @@
+<h1 id="geoprocessing-toolbox">Geoprocessing Toolbox</h1>
+
+<h2 id="count-the-number-of-douglas-fir-trees-in-each-neighbourhood">Count the number of Douglas Fir trees in each neighbourhood.</h2>
+<p>In the Main Menu, click on <strong>View</strong>, scroll down to <strong>Panels</strong> and select <strong>Processing Toolbox</strong>.</p>
+
+<p><em>In case you can’t find the <strong>Processing Toolbox</strong> option, <a href="https://ubc-library-rc.github.io/gis-intro-qgis/content/geoprocessing-toolbox.html#enable-processing-plugin">click here</a>.</em></p>
+
+<p><img src="view-panel-processing-toolbox_20200822.png" alt="View Panel toolbox" /></p>
+
+<p>This is where you can find a large number of analytical and geoprocessing tools.</p>
+
+<p>In the search bar, type “count points in polygon” and double-click the result.</p>
+
+<p><img src="count-points-in-polygon_20200822.png" alt="Search Processing Toolbox" /></p>
+
+<p>In the new window, select:</p>
+
+<p><strong>Polygons:</strong> vanHoods (your input polygon layer) <br />
+<strong>Points:</strong> vanDougFirs (your input points layer) <br />
+<strong>Count field name:</strong> DougFirs (the name of the attribute that will have Doug Fir counts)</p>
+
+<p>Click <strong>Run</strong>, then <strong>Close</strong> when the process has finished.</p>
+
+<p><img src="polygons-points-countfield-name_20200822.png" alt="Polygons Points and Count field name" /></p>
+
+<p><em>You should now have a new layer called <strong>Count</strong></em>. Take a look at the attribute table for this new layer and then close it.</p>
+
+<p><img src="count-attribute-table_20200822.png" alt="Count attribute table" /></p>
+
+<p>Save this layer to your data folder by right-clicking and selecting <strong>Export - Save Features As..</strong></p>
+
+<p><img src="count-save-feature-as_20200822.png" alt="Save count feature" /></p>
+
+<p>In the new window, select</p>
+
+<p><strong>Format:</strong> Esri Shapefile  <br />
+<strong>File name:</strong> navigate to the location of your project’s data, save the file as <strong>vanHoodsCount</strong> and click <strong>OK</strong>.</p>
+
+<p><img src="vanHoodsCount-save-feature_20200822.png" alt="vanHoodsCount data" /></p>
+
+<h2 id="enable-processing-plugin">Enable Processing plugin</h2>
+
+<p><em>In case you didn’t find the <strong>Processing Toolbox</strong></em>:</p>
+
+<p>In the <strong>Main Menu</strong>, click on <strong>Plugins</strong>, then click on <strong>Manage and Install Plugins…</strong></p>
+
+<p><img src="add-plugins_20200822.png" alt="Manage and install plugings" /></p>
+
+<p>On the search bar, type in <strong>Processing</strong>. Select the Processing box and then click <strong>Close</strong>.</p>
+
+<p>You should now see the <strong>Toolbox icon</strong> and be able to proceed with the next steps.</p>
+
+<p><img src="Processing-toolbox-icon_20200822.png" alt="Toolbox icon" /></p>

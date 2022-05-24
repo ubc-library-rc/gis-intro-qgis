@@ -1,0 +1,8 @@
+I"	<h1 id="installing-qgis">Installing QGIS</h1>
+
+<p>QGIS can be downloaded from <a href="https://qgis.org/en/site/forusers/download.html">qgis.org’s Downloads page</a>. In most cases, you’ll want to download and install the <strong>Long term release</strong> instead of the latest release.</p>
+
+<p><img src="QGIS-install-long-term-version-20220517.png" alt="Long term release" /></p>
+
+<p>This will give you most of the functionality you’ll need, without encountering the software bugs of newly released versions.</p>
+:ET

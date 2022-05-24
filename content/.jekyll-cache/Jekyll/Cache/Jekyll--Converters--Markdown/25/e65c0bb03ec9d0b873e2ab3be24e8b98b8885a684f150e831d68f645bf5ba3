@@ -1,0 +1,24 @@
+I"�<h1 id="label-neighbourhoods">Label Neighbourhoods</h1>
+
+<p>Right-click your <strong>vanHoodsCount</strong> layer, click on <strong>Properties</strong>. On the new window, select the <strong>Labels</strong> tab.<br />
+At the very top, there is a button where <strong>No labels</strong> is selected.</p>
+
+<p><img src="VanHoodsCount-label-tab_20200822.png" alt="VanHoodsCount Properties Label tab" /></p>
+
+<p>Change <strong>No Labels</strong> to <strong>Single labels.</strong></p>
+
+<p>On <strong>Value</strong> select: NAME  <br />
+On <strong>Buffer</strong>, check the “<strong>Draw text buffer</strong>” box. This can help with displaying dark text over dark coloured maps.</p>
+
+<p><img src="VanHoodsCount-buffer_20200822.png" alt="VanHoodsCount Properties Label Buffer" /></p>
+
+<p>Next, click on <strong>Placement</strong> and select: <strong>Horizontal</strong></p>
+
+<p>Click <strong>Apply</strong> to see your changes, and make any stylistic adjustments. Click <strong>OK</strong> when done.</p>
+
+<p><img src="VanHoodsCount-placement_20200822.png" alt="VanHoodsCount Properties Label Placement" /></p>
+
+<p><em>Your map should now look like this:</em></p>
+
+<p><img src="VanHoods-map_20200822.png" alt="VanHoodsCount choroplath map" /></p>
+:ET
