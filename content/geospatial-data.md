@@ -31,7 +31,6 @@ Below is a map consisting of vector data, with cities (points), major roads (lin
 
 ### Raster Geospatial Data
 Raster data is stored as grid of values which are rendered by a GIS as coloured pixels. Continuous geospatial features such as satellite imagery, topography, or the results of spatial calculations are raster data. 
-[Read More Here](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/raster_data.html)
 
 ![Raster Map of PNW](raster-map.png)
 
