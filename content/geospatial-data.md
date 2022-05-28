@@ -30,7 +30,12 @@ Below is a map consisting of vector data, with cities (points), major roads (lin
 ![Vector Map of PNW](vector-map.png)
 
 ### Raster Geospatial Data
+Raster data is stored as grid of values which are rendered by a GIS as coloured pixels. Continuous geospatial features such as satellite imagery, topography, or the results of spatial calculations are raster data. 
+![Read More Here](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/raster_data.html)
 
 ![Raster Map of PNW](raster-map.png)
 
 ## Tabular Data in GIS
+Tabular data is data formatted into a table by **rows** and **columns**. The attribute table of a shapefile is an example of tabular data. You can also add a tabular dataset, such as a .csv (commma separated value) file, directly to a GIS and A) join it with a shapefile based on a matching column, or B) project it given coordinate pairs are present.
+
+![Tabular Data](tabular-data_20220527.png)
