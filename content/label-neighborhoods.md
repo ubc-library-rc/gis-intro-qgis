@@ -27,4 +27,4 @@ Click **Apply** to see your changes, and make any stylistic adjustments. Click *
 
 *Your map should now look like this:*
 
-![VanHoodsCount choroplath map](VanHoods-map_20200822.png)
+![VanHoodsCount choroplath map](VanHoods-map_20220520.png)
