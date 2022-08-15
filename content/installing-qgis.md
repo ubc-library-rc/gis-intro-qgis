@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Installing QGIS
-nav_order: 1
-parent: Understanding QGIS
+nav_order: 2
+parent: Introduction
 ---
 
 # Installing QGIS

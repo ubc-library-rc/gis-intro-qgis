@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Understanding QGIS
-nav_order: 4
-has_children: true
+nav_order: 1
+parent: Introduction
 ---
 
 # QGIS
