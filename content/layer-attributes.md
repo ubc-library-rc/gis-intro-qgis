@@ -2,7 +2,7 @@
 layout: default
 title: Layer Attributes
 parent: Hands On
-nav_order: 4
+nav_order: 5
 ---
 
 # Layer Attributes

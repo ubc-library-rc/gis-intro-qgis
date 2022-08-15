@@ -2,7 +2,7 @@
 layout: default
 title: Choropleth Map
 parent: Hands On
-nav_order: 7
+nav_order: 8
 ---
 
 # Create a Choropleth Map
@@ -33,4 +33,4 @@ Click **Apply** and drag/resize your symbology window so you can see your map ca
 
 *Your map should look like this:*
 
-![Green choropleth map](choropleth-map_20220519.png)
+![Green choropleth map](VanHoods-map_20220520.png)

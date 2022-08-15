@@ -2,7 +2,7 @@
 layout: default
 title: Geoprocessing Toolbox
 parent: Hands On
-nav_order: 6
+nav_order: 7
 ---
 
 # Geoprocessing Toolbox
