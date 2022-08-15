@@ -13,6 +13,6 @@ The result of this project will be a choropleth map showing the number of Dougla
 #### GIS Resources at UBC:
 - General Informational website for all things UBC GIS: [gis.ubc.ca](http://gis.ubc.ca/)    
 - UBC Library's guide for finding and working with GIS resources: [guides.library.ubc.ca/gis](http://guides.library.ubc.ca/gis)
-- UBC's GIS email list: [UBC GIS ListServ](https://lists.ubc.ca/scripts/wa.exe?SUBED1=GIS-LIST&A=1)  
-- UBC's GIS Slack: [ubcgis.slack.com](https://ubcgis.slack.com/)
+- Connect with UBC GIS: [Slack and ListServ](https://gis.ubc.ca/contact/)  
 - Evan Thornberry, GIS Librarian @ UBC Library: [Schedule and appointment](https://libcal.library.ubc.ca/appointments/evanthornberry)
+- Lily Crandall-Oral, GIS Graduate Academic Assistant @ UBC Library: [Schedule an appointment](https://libcal.library.ubc.ca/appointments/mapslily)
