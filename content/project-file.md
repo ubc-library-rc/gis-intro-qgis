@@ -5,11 +5,14 @@ parent: Hands On
 nav_order: 1
 ---
 
-# The QGIS project file (.qgz)
+# Open the QGIS project file (.qgz)
 
 If you haven't already, open QGIS. 
 
-In the Browser Panel, navigate to the directory where you added your newly extracted folder called **intro-qgis-project-files**. Inside you'll see the **vanTreeMap** project file. Double-click that file to open the project. Note: for a better look at any of the workshop's instructional images, right click the image and select **Open Image in New Tab**.
+## Connect Project Folder
+There are many ways to connect directories (folders) and add data in QGIS. Adding our working folder as a "favorite" connection now will make things easier later on. In the Browser Panel, right click **Favorites** and select **Add new directory**. Navigate to your newly extracted folder called **intro-qgis-project-files**. Select it (but don't click into it) and hit Open at the bottom right of the dialogue box. The directory **intro-qgis-project-files** is now pinned in your Browser Panel. Expand the directory by clicking the triangle. Inside you'll see the **vanTreeMap** project file. Double-click that file to open the QGIS project for today. 
+
+Note: for a better look at any of the workshop's instructional images, right click the image and select **Open Image in New Tab**.
 
 ![Image of Open VanTreeMap ](Open-vantreemap_20220518.png)
 
