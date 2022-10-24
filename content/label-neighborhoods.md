@@ -2,7 +2,7 @@
 layout: default
 title: Label Neighhourhoods
 parent: Hands On
-nav_order: 9
+nav_order: 10
 ---
 
 # Label Neighbourhoods

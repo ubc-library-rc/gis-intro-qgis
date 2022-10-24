@@ -2,7 +2,7 @@
 layout: default
 title: QGIS GUI
 parent: Hands On
-nav_order: 2
+nav_order: 3
 ---
 
 # QGIS Graphical User Interface (GUI)
