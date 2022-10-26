@@ -2,7 +2,7 @@
 layout: default
 title: Compose for Print
 parent: Hands On
-nav_order: 10
+nav_order: 11
 ---
 
 # Compose your map for print.
