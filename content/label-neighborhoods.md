@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Label Neighhourhoods
+title: Label Neighbourhoods
 parent: Hands On
 nav_order: 10
 ---
