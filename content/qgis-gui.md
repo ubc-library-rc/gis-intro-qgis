@@ -22,7 +22,7 @@ Even though Vancouver currently appears to be floating in a sea of white, your s
 [QGIS plugins](https://plugins.qgis.org/) are user developed tools that extend QGIS functionality beyond the basics. To access basemaps, we'll first install the OpenLayers plugin. Click on the **Plugin** menu at the top of your screen and select **Manage and Install Plugins...**
 ![Install plugin](install-plugin_20221024.png)   
    
-In the dialogue box the opens, select **All** as a search category on the left and type "QuickMapServices" as one word. Install the plugin and close the dialogue box.
+In the dialogue box that opens, select **All** as a search category on the left and type "QuickMapServices" as one word. Install the plugin and close the dialogue box.
 ![quick map services](quickmapservices_20221026.png)
 
 ### Add Basemap
