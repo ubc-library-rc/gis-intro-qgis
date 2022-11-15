@@ -14,4 +14,4 @@ In this case, GIS is an abbreviation for Geographic Information System. A nice d
 With that in mind, there are 3 main forms of GISs:
 1. **Utilities and Services (tasks)** - Scripts and programming libraries that manipulate spatial data in specific ways.
 2. **Desktop (analyses)** - Software that provides a suite of tools for processing and spatially analyzing data.
-3. **Infrastructure (management)** - Server and web resources to meant manage, curate, and distribute collections of spatial data.
+3. **Infrastructure (management)** - Server and web resources meant to manage, curate, and distribute collections of spatial data.
