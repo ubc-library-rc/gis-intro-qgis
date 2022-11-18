@@ -21,8 +21,8 @@ This is an introductory workshop focusing on the fundamental concepts and skills
 
 ---
 #### GIS Resources at UBC:
-- General Informational website for all things UBC GIS: [gis.ubc.ca](http://gis.ubc.ca/)    
+- General informational website for all things UBC GIS: [gis.ubc.ca](http://gis.ubc.ca/)    
 - UBC Library's guide for finding and working with GIS resources: [guides.library.ubc.ca/gis](http://guides.library.ubc.ca/gis)
 - Connect with UBC GIS: [Slack and ListServ](https://gis.ubc.ca/contact/)  
-- Evan Thornberry, GIS Librarian @ UBC Library: [Schedule and appointment](https://libcal.library.ubc.ca/appointments/evanthornberry)
+- Evan Thornberry, GIS Librarian @ UBC Library: [Schedule an appointment](https://libcal.library.ubc.ca/appointments/evanthornberry)
 - Lily Crandall-Oral, GIS Graduate Academic Assistant @ UBC Library: [Schedule an appointment](https://libcal.library.ubc.ca/appointments/mapslily)
