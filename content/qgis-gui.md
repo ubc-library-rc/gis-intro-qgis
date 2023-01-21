@@ -19,7 +19,7 @@ nav_order: 3
 Even though Vancouver currently appears to be floating in a sea of white, your shapefile is georeferenced meaning QGIS knows where on Earth Vancouver is. Adding a basemap helps give your map spatial context. While this step is **not required** for this workshop, below are instructions to add a web-based basemap to your project. 
 
 ### Install Plugin
-[QGIS plugins](https://plugins.qgis.org/) are user developed tools that extend QGIS functionality beyond the basics. To access basemaps, we'll first install the OpenLayers plugin. Click on the **Plugin** menu at the top of your screen and select **Manage and Install Plugins...**
+[QGIS plugins](https://plugins.qgis.org/) are user developed tools that extend QGIS functionality beyond the basics. To access basemaps, we'll first install the QuickMapServices plugin. Click on the **Plugin** menu at the top of your screen and select **Manage and Install Plugins...**
 ![Install plugin](install-plugin_20221024.png)   
    
 In the dialogue box that opens, select **All** as a search category on the left and type "QuickMapServices" as one word. Install the plugin and close the dialogue box.
