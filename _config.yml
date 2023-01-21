@@ -1,5 +1,6 @@
 title: Map Production with QGIS
-remote_theme: ubc-library-rc/rc-workshop-template
+remote_theme: ubc-library-rc/rc-theme
+color_scheme: rc
 footer_content: "<a href=\"https://github.com/ubc-library-rc/gis-intro-qgis/\">View workshop content in GitHub</a>"
 
 # license information for workshop content
