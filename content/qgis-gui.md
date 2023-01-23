@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 # QGIS Graphical User Interface (GUI)
+Once you have opened the vanTreeMap project your interface should look like this:
 
 ![The main QGIS GUI](QGIS-GUI-20220518.png "The main QGIS GUI")
 
