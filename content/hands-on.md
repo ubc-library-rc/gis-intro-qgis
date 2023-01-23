@@ -6,13 +6,9 @@ has_children: true
 ---
 # Hands on with QGIS
 
+
 ## Download Workshop Data
-To get started with this workshop, you'll need to first download the data and files from this GitHub repository. To do this,
-
-
-To Do
-{: .label .label-green }
-Click on the 'Download Data' button below to start the download. Once complete, **extract the contents of the .zip file**.
+To get started with this workshop, you'll need to first download the data and files from this GitHub repository. To do this, click on the 'Download Data' button below to start the download. Once complete, **extract the contents of the .zip file**.
 
 [Download Data](RC-intro-qgis-project-files.zip){: .btn .btn-blue }
 
