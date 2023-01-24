@@ -17,7 +17,7 @@ On the new window, select the **Symbology** tab.
 
 At the very top, there is a button where **Single Symbol** is selected.
 
-![Single symbol option](single-symbol_20220159.png)
+![Single symbol option](single-symbol_20220519.png)
 
 Click on that button and select **Graduated**. This will allow you to display graduated colours representing classes of attribute values.
 
