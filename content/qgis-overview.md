@@ -17,3 +17,4 @@ QGIS is a popular desktop GIS software, and considered a **f**ree and **o**pen *
 ## QGIS DOWNS⇣DE
 - Most recent features can be buggy
 - Plugins lack standardized documentation
+- Troubleshooting = Googling 
