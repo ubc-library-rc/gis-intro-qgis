@@ -29,3 +29,6 @@ This is an introductory workshop focusing on the fundamental concepts and skills
 - Contact UBC Library’s Geospatial team: `library.gis@ubc.ca`
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
+    
+<p style="margin-top:90px"></p>
+<p style="color:grey; font-size:11px">This workshop was authored by Lily Demet and reviewed by Elizabeth Fernandes.</p>
