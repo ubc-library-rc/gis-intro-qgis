@@ -7,7 +7,7 @@ This is an introductory workshop focusing on the fundamental concepts and skills
 Link to workshop: [https://ubc-library-rc.github.io/gis-intro-qgis/](https://ubc-library-rc.github.io/gis-intro-qgis/)
 
 
-This workshop was authored by Elizabeth Fernandes and further developed by Lily Demet (Graduate Academic Assistant, Geospatial Information and Technology).
+This workshop was authored by Lily Demet (Graduate Academic Assistant, Geospatial Information and Technology) and reviewed by Elizabeth Fernandes.
     
 
 The workshop site uses the [Just the Docs](https://github.com/pmarsceill/just-the-docs) Jekyll theme.

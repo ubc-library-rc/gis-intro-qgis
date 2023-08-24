@@ -31,4 +31,4 @@ This is an introductory workshop focusing on the fundamental concepts and skills
 
     
 <p style="margin-top:90px"></p>
-<p style="color:grey; font-size:11px">This workshop was authored by Elizabeth Fernandes and further developed by Lily Demet.</p>
+<p style="color:grey; font-size:11px">This workshop was authored by Lily Demet and reviewed by Elizabeth Fernandes.</p>
