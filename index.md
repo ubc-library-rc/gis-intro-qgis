@@ -19,6 +19,7 @@ This is an introductory workshop focusing on the fundamental concepts and skills
    
    
 *Note: While the workshop will be taught using the most recent QGIS Long Term Release (LTR), image documentation for the online workshop website references QGIS 3.22.7. Because the versions are only one release apart, differences between your screen and the workshop images should be minimal if any.*
+
 ---
 #### GIS Resources at UBC:
 
