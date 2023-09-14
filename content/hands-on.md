@@ -6,8 +6,7 @@ has_children: true
 ---
 # Hands on with QGIS
 
-
-## Download Workshop Data
+<br>
 To get started with this workshop, you'll need to first download the data and files from this GitHub repository. To do this, click on the 'Download Data' button below to start the download. Once complete, **extract the contents of the .zip file**.
 
 [Download Data](RC-intro-qgis-project-files.zip){: .btn .btn-blue }
@@ -15,6 +14,7 @@ To get started with this workshop, you'll need to first download the data and fi
 Open the new **intro-qgis-project-files** folder. This is your project folder which contains the items:
 - **data** subfolder: where your project data is stored. All of these files are derived from data found from the [City of Vancouver's Open Data Catalogue](https://vancouver.ca/your-government/open-data-catalogue.aspx).
 - **vanTreeMap.qgz**: a QGIS project file containing the workshop's maps and data
+
 ---
 For this workshop, we will begin with a pre-made project that contains *clean* data that is organized into folders. The project file contains paths to data layers so that they load in the Map Canvas when the project starts. The project file also contains any style settings that have been applied to your data layers. It is important that you keep the paths to your data layers intact to avoid broken links. The **best practice** is to keep your data organized in folders associated with your project so that they are logically arranged in folder systems from the very start of any project.
 
