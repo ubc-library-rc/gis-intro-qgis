@@ -18,4 +18,16 @@ Once you have opened the vanTreeMap project your interface should look like this
 <br>
 **Map Canvas or Map View** - Call it either one. This is where the map is displayed as layers are loaded. You can zoom/pan the map canvas as well as select features and other operations.    
 
+
+## Interface Preferences 
+You can change the look and feel of your GUI, as well as adjust default settings from **QGIS-LTR --> Preferences** or **Settings --> Options.** 
+
+### Increasing Icon and Font Size
+To increase the size of icons and text on your interface, go to the **Settings** menu at the top of your screen and click on **Options**.
+   
+![system-settings](settings.png)
+
+Resize the dialogue box so you can see the drop-down for "icon size" and "font." Icon changes will happen as soon as you click OK. Changes in font size won't update until you quit and restart QGIS, so make sure you save your project now. 
+   
+![system-preferences](system-preferences.png)
    
