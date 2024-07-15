@@ -9,7 +9,9 @@ parent: Introduction
 
 QGIS can be downloaded from [qgis.org's Downloads page](https://qgis.org/en/site/forusers/download.html). In most cases, you'll want to download and install the **Long term release** instead of the latest release. This will give you most of the functionality you'll need, without encountering the software bugs of newly released versions.
 
-![Long term release](./QGIS-install-long-term-version-20240411.png)
+<img src="./install-qgis-LTR1_20240715.png" style="width:90%">
+<img src="./install-qgis-LTR2_20240715.png" style="width:90%">
+<!-- ![Long term release](./QGIS-install-long-term-version-20240411.png) -->
     
       
 
