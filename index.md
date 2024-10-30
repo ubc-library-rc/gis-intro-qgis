@@ -17,7 +17,10 @@ This is an introductory workshop focusing on the fundamental concepts and skills
 - edit the symbolization of spatial data 
 - compose a map document for export
    
-   
+The final map you will create will look something like this:
+
+<img src="./content/final-map_20241030.jpeg" style="width:100%">
+
 *Note: While the workshop will be taught using the most recent QGIS Long Term Release (LTR), image documentation for the online workshop website references QGIS 3.22.7. Because the versions are only one release apart, differences between your screen and the workshop images should be minimal if any.*
 
 ---
