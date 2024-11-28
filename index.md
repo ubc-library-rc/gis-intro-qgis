@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 
 ---
-# Learning Outcomes
+# Map Production with QGIS
 
 This is an introductory workshop focusing on the fundamental concepts and skills needed to begin using **QGIS** to explore and analyze spatial data. The result of this project will be a choropleth map showing the number of Douglas Firs lining the streets in each of Vancouver's neighbourhoods. We will compose and export this map for print. By the end of the workshop participants will be able to:
 
