@@ -37,3 +37,6 @@ A third way to add layers to your map canvas is through the **Layer** button at 
 ![Add Vector Layer](add-vector-layer_20220518.png)
 
 There are often multiple ways to perform an action in QGIS. As you become familiar with the interface, you will find a workflow that suits you. 
+
+## 4. Drag & Drop
+ You can also drag and drop data layers from your data folder directly onto your map canvas. While a convenient method, it's easy to forget where data layers are stored. Only drag and drop if you are working with few layers or your layers are stored in a single folder. 

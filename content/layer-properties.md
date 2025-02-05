@@ -7,7 +7,7 @@ nav_order: 2
 
 # Layer Properties
 
-Your new project currently displays 2 layers in your Layer Panel.    
+Your new project currently displays 2 layers in your Layer Panel. If your map canvas is blank, right-click **vanHoods** and select **Zoom to Layer(s).  
 
 In the Layers Panel, right-click the layer **vanHoods**, and select **Properties**.
 

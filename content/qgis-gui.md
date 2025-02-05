@@ -12,7 +12,7 @@ Once you have opened the vanTreeMap project your interface should look like this
 
 **Toolbars** - Toolbars are where you will find the most useful geoprocessing, editing, navigation, and other tools. You can customize this area of your GUI to fit your needs. 
 <br>   
-**Browser and Layers Panel** - The browser panel lets you easily navigate your file system for data and project files. Your layers panel displays your project's data layers and provides access to configuration settings.   
+**Browser and Layers Panel** - The browser panel lets you easily navigate your file system for data and project files. Your layers panel displays your project's data layers and provides access to configuration settings. If you ever accidentally close a Panel, you can open it again by going to the **View** Menu at the top of your screen, down to **Panels** and then selecting the ones you wish. You can also right-click anywhere in the toolbar's greyspace and select Panels and Toolbars to show/hide. 
 <br>
 **Status Bar** - The status bar displays current information about the map canvas, and allows you to make adjustments in the map's scale and rotation.    
 <br>
