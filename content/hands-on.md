@@ -9,7 +9,7 @@ has_children: true
 <br>
 *1*{: .circle .circle-green} To get started with this workshop, you'll need to first download the data and files from this GitHub repository. To do this, click on the 'Download Data' button below to start the download. Once complete, **extract the contents of the .zip file**.
 
-[Download Data](RC-intro-qgis-project-files.zip){: .btn .btn-blue }
+[Download Data](./qgis-intro.zip){: .btn .btn-blue }
     
 
 <br>
