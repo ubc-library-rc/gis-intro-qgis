@@ -1,20 +1,34 @@
 ---
 layout: default
-title: Understanding QGIS
+title: QGIS
 nav_order: 1
-parent: Introduction
+parent: GIS Overview
 ---
 
-# QGIS
-QGIS is a popular desktop GIS software, and considered a **f**ree and **o**pen **s**ource **s**oftware **(FOSS)** with a very active development community. According to [QGIS's development roadmap](https://www.qgis.org/en/site/getinvolved/development/roadmap.html), new versions are planned for release as far as 2 years into the future. For this workshop we are using QGIS 3.34.6-Prizren, the most recent long term release.
+<!-- # QGIS -->
 
-## QGIS UPS⇡DE
-- Runs on Windows, Mac, Linux, Android
-- Extensive [online documentation](https://docs.qgis.org/3.34/en/docs/index.html), including a QGIS [User Guide](https://docs.qgis.org/3.34/en/docs/user_manual/index.html) as well as [Training Manual](https://docs.qgis.org/3.34/en/docs/training_manual/index.html). Furthermore, their [gentle intro to QGIS](https://docs.qgis.org/3.34/en/docs/gentle_gis_introduction/index.html) may be where you go after this workshop if you feel you need a more focused, guided introduction.
-- Active development and user communities
-- Robust plugin repository for extended functionality
+<img src="./QGIS-logo.png" style="width:30%">
 
-## QGIS DOWNS⇣DE
-- Most recent features can be buggy
-- Plugins lack standardized documentation
-- Troubleshooting = Googling 
+[QGIS](https://qgis.org/) is a popular desktop GIS software, and considered a free and open source software (FOSS) with a very active development community.
+
+### QGIS Advantages  ⇡
+ - Free and open source 
+ - Runs on Windows, Mac, Linux, Android
+ - Extensive online documentation 
+ - Intuitive interface
+ - Active development and user communities, meaning people are constantly posing and answering questions on platforms such as Reddit and StackExchange. This makes troubleshooting a whole lot easier. 
+ - Robust [plugin](https://plugins.qgis.org/) repository for extended functionality
+
+
+### QGIS Disadvantages ⇣
+ - Most recent features can be buggy, which is why we recommend always downloading the latest Long Term Release, often small hyperlink below main download button. 
+ - Plugins lack standardized documentation as they are largely user-community developed and contributed
+ - Troubleshooting often amounts to searching the web, though this is an important skill to have as a cartographer. 
+
+<br>
+
+#### QGIS Resources 
+{: .no_toc}
+- UBC Research Commons has two workshops to get you started: [Intro to Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/) and [Tools and Workflows in QGIS](https://ubc-library-rc.github.io/gis-tools-workflows/). 
+- QGIS itself has extensive online documentation.
+[User Guide](https://docs.qgis.org/3.40/en/docs/user_manual/index.html) *and* [Training Manual](https://docs.qgis.org/3.40/en/docs/training_manual/index.html). QGIS also has a vibrant user community, with answers to nearly any question you might have only a web search away. Many helpful tutorial demonstrations can be found on Youtube. [CWU Geography](https://www.youtube.com/@cwugeography3290) offers especially clear and helpful content. 

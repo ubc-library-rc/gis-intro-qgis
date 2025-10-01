@@ -2,7 +2,7 @@
 layout: default
 title: Geospatial Data
 parent: GIS Overview
-nav_order: 1
+nav_order: 2
 ---
 
 # Geospatial Data
