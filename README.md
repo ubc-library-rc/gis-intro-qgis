@@ -2,13 +2,14 @@
 # Map Production with QGIS
 
 ### UBC Library Research Commons
-This is an introductory workshop focusing on the fundamental concepts and skills needed to begin using QGIS to explore and analyze spatial data. By the end of this workshop, attendees will have a basic understanding of spatial data, the QGIS graphical user interface, data attributes and symbolization, and how to publish a map for printing in a journal or report.
+Description: This is an introductory workshop focusing on the fundamental concepts and skills needed to begin using QGIS to explore and analyze spatial data. 
+
+By the end of this workshop, attendees will have a basic understanding of spatial data, the QGIS graphical user interface, data attributes and symbolization, and how to publish a map for printing in a journal or report.
 <br>
 Link to workshop: [https://ubc-library-rc.github.io/gis-intro-qgis/](https://ubc-library-rc.github.io/gis-intro-qgis/)
 
 
-This workshop was authored by Lily Demet (Graduate Academic Assistant, Geospatial Information and Technology) and reviewed by Elizabeth Fernandes.
-    
+This workshop was authored by Lily Demet (Graduate Academic Assistant, Geospatial Information and Technology). 
 
 The workshop site uses the [Just the Docs](https://github.com/pmarsceill/just-the-docs) Jekyll theme.
     
