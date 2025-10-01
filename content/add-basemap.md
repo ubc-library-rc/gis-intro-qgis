@@ -24,5 +24,5 @@ Make sure to drag your basemap to the bottom in your Layers Panel. Remove the ba
 ![Add basemap](OSM-basemap_20221026.png)
 
 
-If you find web-based maps interesting, check out the Research Commons' [Leaflet Workshop!](https://ubc-library-rc.github.io/gis-intro-leaflet/) 
+If you find web-based maps interesting, check out the Research Commons' [Webmapping Workshop!](https://ubc-library-rc.github.io/gis-intro-leaflet/) 
 {: .note}
