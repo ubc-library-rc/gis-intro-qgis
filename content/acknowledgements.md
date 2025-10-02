@@ -8,7 +8,7 @@ has_children: false
 
 ### Site Template
 
-The content for this workshop was authored by Lily Demet and reviewed by Elizabeth Fernandes. 
+The current version of this workshop was authored by <a href="https://geog.ubc.ca/profile/lily-crandall-oral/" target="_blank">Lily Demet</a>. A previous version was authored by Elizabeth Fernandes.
    
 Site template adapted from the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template created by [Patrick Marsceil](https://github.com/pmarsceill) and available under the [MIT License](http://opensource.org/licenses/MIT).
 
