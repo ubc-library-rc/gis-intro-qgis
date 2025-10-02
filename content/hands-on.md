@@ -25,3 +25,8 @@ has_children: true
 For this workshop, we will begin with a pre-made project that contains *clean* data that is organized into folders. The project file contains paths to data layers so that they load in the Map Canvas when the project starts. The project file also contains any style settings that have been applied to your data layers. It is important that you keep the paths to your data layers intact to avoid broken links. The **best practice** is to keep your data organized in folders associated with your project so that they are logically arranged in folder systems from the very start of any project.
 
 Another real-world scenario is that you would begin your project by searching for and evaluating data that you need, which can be a time consuming (and potentially expensive!) step. It's also common to have to clean, transform, or otherwise process your data in order for it to work correctly in your GIS project. We are avoiding that step by design for this introductory workshop.
+
+
+The map we will make will look something like this:
+
+<img src="./images/final-map_20241030.jpeg" style="width:100%">

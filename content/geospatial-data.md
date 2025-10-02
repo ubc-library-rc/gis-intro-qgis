@@ -27,15 +27,15 @@ Polygons are three or more points connected by a path and closed to form an area
 
 Below is a map consisting of vector data, with cities (points), major roads (lines), land/water (polygons), and parks (polygons). 
 
-![Vector Map of PNW](vector-map.png)
+![Vector Map of PNW](./images/vector-map.png)
 <br>
 
 ## Raster Data: pixel grids
 Raster data are stored as a grid of values which are rendered by a GIS as coloured pixels. Continuous geospatial features such as satellite imagery, topography, or the results of spatial calculations are raster data. 
 
-![Raster Map of PNW](raster-map.png)
+![Raster Map of PNW](./images/raster-map.png)
 <br>
 ## Tabular Data in GIS
 Tabular data are data formatted into a table by **rows** and **columns**. The attribute table of a shapefile is an example of tabular data. You can also add a tabular dataset, such as a .csv (commma separated value) file, directly to a GIS and A) join it with a shapefile based on a matching column, or B) project it given coordinate pairs are present.
 
-![Tabular Data](tabular-data_20220527.png)
+![Tabular Data](./images/tabular-data_20220527.png)

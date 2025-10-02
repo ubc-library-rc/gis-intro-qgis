@@ -11,13 +11,13 @@ In your layers panel, hide (uncheck) everything except your **vanHoodsCount** an
 
 Right-click on the **vanHoodsCount** layer and select **Properties**.
 
-![vanHoodsCount Properties](vanHoodsCount-properties_20220519.png)
+![vanHoodsCount Properties](./images/vanHoodsCount-properties_20220519.png)
 
 On the new window, select the **Symbology** tab.
 
 At the very top, there is a button where **Single Symbol** is selected.
 
-![Single symbol option](single-symbol_20220519.png)
+![Single symbol option](./images/single-symbol_20220519.png)
 
 Click on that button and select **Graduated**. This will allow you to display graduated colours representing classes of attribute values.
 
@@ -29,8 +29,8 @@ On **Mode** select: Natural Breaks (Jenks)
 On **Classes** select: 5  
 Click **Apply** and drag/resize your symbology window so you can see your map canvas. When you are satisfied, click **OK** and close the window.  
 
-![VanHoodsCount graduated attributes](vanHoodsCount-graduated-attributes_20220519.png)
+![VanHoodsCount graduated attributes](./images/vanHoodsCount-graduated-attributes_20220519.png)
 
 *Your map should look like this:*
 
-![Green choropleth map](VanHoods-map_20220520.png)
+![Green choropleth map](./images/VanHoods-map_20220520.png)

@@ -7,7 +7,7 @@ parent: GIS Overview
 
 <!-- # QGIS -->
 
-<img src="./QGIS-logo.png" style="width:30%">
+<img src="./images/QGIS-logo.png" style="width:30%">
 
 [QGIS](https://qgis.org/) is a popular desktop GIS software, and considered a free and open source software (FOSS) with a very active development community.
 

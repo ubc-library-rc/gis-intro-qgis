@@ -9,12 +9,12 @@ nav_order: 12
 
 In the toolbar, select **Project**, then click on **Save**. 
 
-![Save Project](Save-project_20220521.png)
+![Save Project](./images/Save-project_20220521.png)
 
 You can also save your project by clicking the **Save Project** button from your docked toolbars. 
 
-![Save Project2](Save-project-2_20220521.png)
+![Save Project2](./images/Save-project-2_20220521.png)
 
 *You might get an error message like this* You can ignore this and close your project. 
 
-![error message](save-project-error_20200822.png)
+![error message](./images/save-project-error_20200822.png)
