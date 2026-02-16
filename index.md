@@ -7,6 +7,9 @@ has_children: true
 ---
 # Map Production with QGIS
 
+Please see [Thematic Mapping with QGIS](https://ubc-library-rc.github.io/gis-thematic-mapping/) for the re-developed version of this workshop. 
+{: .note} 
+
 This is an introductory workshop focusing on the fundamental concepts and skills needed to begin using **QGIS** to explore and analyze spatial data. The result of this project will be a choropleth map showing the number of Douglas Firs lining the streets in each of Vancouver's neighbourhoods. We will compose and export this map for print. By the end of the workshop participants will be able to:
 
 - understand different types of geospatial data
